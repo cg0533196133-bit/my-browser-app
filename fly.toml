@@ -1,4 +1,4 @@
-app = "my-browser-app-32bit"
+app = "my-browser-app"
 primary_region = "ams"
 
 [build]
